@@ -12,6 +12,7 @@ The application follows key cloud-native principles:
 -   Fully managed cloud services
 
 Live Demo: [Open Application](https://staging.d1hghdci4s4bn3.amplifyapp.com)
+
 **Note**: You will need to create an account to access the application.
     
 ----------
